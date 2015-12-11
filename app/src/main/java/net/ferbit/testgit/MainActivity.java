@@ -12,7 +12,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "matej";
+    private static final String TAG = "matej1!";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
